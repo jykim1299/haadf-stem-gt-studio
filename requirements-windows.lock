@@ -1,0 +1,9 @@
+# Tested on Windows x64 / CPython 3.12. Regenerate only with the validation suite.
+PySide6-Essentials==6.12.0
+shiboken6==6.12.0
+numpy==2.5.4
+scipy==1.18.1
+opencv-python-headless==4.14.0.94
+tifffile==2026.10.15
+h5py==3.16.0
+Pillow==12.3.0
